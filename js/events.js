@@ -5,6 +5,9 @@ function getIt(){
   });
 }
 
+function frameIt(){
+  $('load')
+}
 $(document).ready(function(){
 
 // call functions here
